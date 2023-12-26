@@ -137,3 +137,11 @@
 {"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-22T22:40:20.129Z"}
 {"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-22T22:40:25.034Z"}
 {"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-22T22:40:30.020Z"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-12-25T23:10:45.188Z","origin":"check-service.ts"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-12-25T23:10:50.008Z","origin":"check-service.ts"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-12-25T23:10:55.007Z","origin":"check-service.ts"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-12-25T23:11:00.033Z","origin":"check-service.ts"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-12-25T23:11:05.019Z","origin":"check-service.ts"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-12-25T23:11:10.016Z","origin":"check-service.ts"}
+{"message":"Email sent","level":"low","createdAt":"2023-12-26T15:30:33.214Z","origin":"email.service.ts"}
+{"message":"Log Email sent","level":"low","createdAt":"2023-12-26T16:05:28.677Z","origin":"send-mail-logs.ts"}

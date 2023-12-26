@@ -11,3 +11,6 @@ MAILER_EMAIL = soportedevtalles.com
 MAILER_SECRET_KEY = 123456
 PROD = true
 ```
+
+3. Ejecutar el comando ```npm install```
+4. Ejecutar el comando ```npm run dev```
