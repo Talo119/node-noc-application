@@ -24,14 +24,14 @@ async function main() {
         level: 'low'
     }); */
 
-    /* const prisma = new PrismaClient();
+    const prisma = new PrismaClient();
 
     const logs = await prisma.logModel.findMany({
         where:{
             level: 'HIGH'
         }
     });
-    console.log({logs}); */
+    console.log({logs});
 
     /* const newLog = await prisma.logModel.create({
         data: {
