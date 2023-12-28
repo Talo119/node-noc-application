@@ -4,3 +4,7 @@ dist/
 
 #Logs
 .DS_Store
+./Logs
+
+./mongo
+./postgres
